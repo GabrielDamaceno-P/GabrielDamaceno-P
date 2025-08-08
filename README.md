@@ -1,8 +1,8 @@
 ## Olá! Me chamo Gabriel Damaceno Pereira
 <div>
   <a  href="https://github.com/GabrielDamaceno-P">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielssd-ai&show_icons=true&theme=dracula&include_all_commits=true"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielssd-ai&layout=compact&langs_count=16&theme=dracula"  /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDamaceno-P&show_icons=true&theme=dracula&include_all_commits=true"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDamaceno-P&layout=compact&langs_count=16&theme=dracula"  /> 
 </div>
 
 <div style="display: inline-block"><br>
