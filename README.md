@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Damaceno
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Damaceno, tenho 23 anos e sou natural de Brasília-DF. Atualmente faço curso técnico em informática na ETC, e sou graduado Análise e Desenvolvimento de Sistemas na instituição do IESB.
 
